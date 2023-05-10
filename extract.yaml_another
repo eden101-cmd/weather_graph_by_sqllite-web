@@ -1,0 +1,2 @@
+tours: #tours is just a name, but the tours have to reflect the key tours that we have in value
+  css: "#temperatureId > b"
